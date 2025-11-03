@@ -1,0 +1,42 @@
+
+h1 {
+	text-align: center;
+	color:lightpink;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+h2 {
+	color: white;
+	background-color: lightpink;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+
+}
+h4{
+	color:aliceblue; background-color:lightpink;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+body
+{text-align:center;
+border-bottom-style: dashed;
+padding-bottom: 50%;
+}
+
+
+a{
+	text-align: center;
+	color: lightpink;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+	
+p
+{
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia;	 
+}
+
+
+
+
+
+
